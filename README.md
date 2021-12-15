@@ -1,22 +1,18 @@
 # classified
 a Lua object-orientation framework made to be easy to read and write for
 
----
 ## what?
 classified is a way to object-orient your Lua code.
 if you've ever missed working with traditional
 class-based workflows in Lua,
 then do I have the library for you.
 
----
 ## how?
 read the `docs` folder, it contains... docs.
 
----
 ## who?
 this is a [rin](https://kagamine-r.in) project. blame them for this.
 
----
 ## less-important stuff
 
 ### what license is this under?
